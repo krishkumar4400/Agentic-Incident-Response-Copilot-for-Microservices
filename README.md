@@ -60,3 +60,5 @@ Most student AI projects are a chatbot over some docs. This shows you can reason
 ## 8. What you can discuss in interviews
 
 Multi-agent design and failure modes, how you prevent hallucinated root causes (grounding via RAG), why you put a human approval gate before destructive actions, least-privilege RBAC for agent tool use, how you’d scale log ingestion with Kafka, LLM cost control at scale, and how you evaluated agent accuracy against a labeled set of past incidents.
+
+## 
